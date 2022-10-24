@@ -1,0 +1,85 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+body{
+background-image: linear-gradient(to right, rgb(0,0,0,0.5), rgb(0,0,0,0.5)), url(image/images\ \(1\).jpeg);
+width: 100%;
+height: 100vh;
+background-size: cover;
+}
+nav{
+padding: 20px;
+color: aliceblue;
+align-items: center;
+display: flex ;
+justify-content: space-between;
+padding-left: 120px;
+}
+section{
+align-items: center;
+display: flex;
+justify-content: space-around;
+padding: 60px;
+}
+form{
+background-color: aliceblue;
+color: black;
+width: 150%;
+padding: 15px;
+text-align: center;
+}
+input{
+background-color: aliceblue;
+color: blackburlywood;
+padding: 20px;
+width: 100%;
+border-radius: 20px;
+margin-bottom: 25px;
+}
+
+button{
+background-color: rgb(241, 118, 3);
+color: aliceblue;
+padding: 20px;
+width: 90%;
+border: 1px solid white;
+border-radius: 20px;
+}
+div nav span a { 
+color: rgb(241, 118,3);
+}
+#mp{
+    color: rgb(241, 118, 3);
+}
+section div h1{
+    font-size: xx-large;
+}
+.okafor{
+    color: aliceblue;
+    background-color: rgb(241, 118, 3);
+    text-align: center;
+    padding: 30px;
+}
+.akachi{
+    background-color:white ;
+    text-align: center;
+    padding: 30px;
+
+}
+.carlos{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.carlos img{
+    width: 80px;
+}
+.carlos h5{
+    opacity: 0.5;
+    padding: 30px;
+}
+.okafor h2{
+    margin-bottom: 25px;
+}
